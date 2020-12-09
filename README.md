@@ -1,7 +1,8 @@
 ATM Management System
 I had to create an ATM Management System using N-tier architecture in dotNet.
 The tree layers in the architecture are named as View Layer, Logic Layer and Data Access Layer.
-*******************************R E Q U I R E M E N T S*********************************************
+
+******************************* R E Q U I R E M E N T S *********************************************
 There are two types of users, Customers and Administrators.
 Both are presented with their own menus after login.
 Customers can use the system to withdraw cash, transfer cash from one account to another, deposit cash and get their current balance.
